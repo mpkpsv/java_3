@@ -5,6 +5,7 @@ public class lesson_3 {
         int[] arr = {1, 2, 3};
         shiftArrayLeftOrRight(1, arr);
 
+
     }
 
     public static void main(String[] args) {
